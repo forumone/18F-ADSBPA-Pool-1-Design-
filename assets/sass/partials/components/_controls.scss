@@ -1,6 +1,6 @@
 .controls {
-  background-color: #c9c7c8;
-  padding: 8px;
+  background-color: $gsa-light-gray;
+  padding: 12px 16px;
   
   button.add-drug {
     margin: 8px 0;
@@ -9,7 +9,7 @@
   md-select {
     md-select-value {
       &.md-select-placeholder {
-        color: rgb(66, 66, 66);
+        color: $gsa-dark-gray;
       }
     }
   }

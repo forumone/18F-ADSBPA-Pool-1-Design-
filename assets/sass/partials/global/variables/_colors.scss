@@ -2,22 +2,23 @@
 // Color variables
 // http://sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html#variables_
 
-$nci-blue: #2e7bab;
-$nci-dark-blue: #146087;
-$nci-white: #fcfcfc;
-$nci-orange: #d14600;
-$nci-light-orange: #fc8d59;
-$nci-dark-gray: #333;
-$nci-medium-gray: #bdbdbd;
-$nci-light-gray: #e7e7e7;
+$gsa-blue: #1daaf1;
+$gsa-dark-blue: #146087;
+$gsa-white: #fcfcfc;
+$gsa-orange: #d14600;
+$gsa-light-orange: #fc8d59;
+$gsa-dark-gray: #333;
+$gsa-medium-gray: #bdbdbd;
+$gsa-light-gray: #c9c7c8;
+$gsa-red: #eb2e80;
 
-$primary-text-color: $nci-dark-gray;
+$primary-text-color: $gsa-dark-gray;
 $secondary-text-color: #555;
-$heading-text-color: $nci-dark-gray;
-$body-color: $nci-white;
-$link-color: $nci-blue;
-$link-hover-color: $nci-dark-blue;
-$selection-background: $nci-blue;
+$heading-text-color: $gsa-dark-gray;
+$body-color: $gsa-white;
+$link-color: $gsa-blue;
+$link-hover-color: $gsa-dark-blue;
+$selection-background: $gsa-blue;
 $selection-foreground: #fff;
 
 // Buttons
@@ -28,4 +29,4 @@ $button-disabled-bg-color: #818181;
 $button-disabled-border-color: #4f4f4f;
 
 // Forms
-$border-color: $nci-medium-gray;
+$border-color: $gsa-medium-gray;

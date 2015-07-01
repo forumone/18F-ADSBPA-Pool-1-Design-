@@ -129,8 +129,6 @@ figure {
   margin: 0 0 rhythm(1);
 }
 
-footer {}
-
 form {
   @if support-legacy-browser('ie', '6', '7') {
     // Correct margin displayed oddly in IE 6/7.

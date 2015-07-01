@@ -3,9 +3,13 @@
 }
 
 .header {
-  color: #1daaf1;
+  color: $gsa-blue;
 }
 
 h1.header {
-  font-size: em($font-size-xxl);
+  font-size: em($font-size-lg);
+  
+  @include breakpoint(850px, $no-query: true) {
+    font-size: em($font-size-xxl);
+  }
 }

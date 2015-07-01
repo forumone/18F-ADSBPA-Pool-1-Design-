@@ -64,8 +64,11 @@ gsa18f.constant('DrugSeriousness', {
 });
 
 gsa18f.run(function($rootScope, $state, $stateParams) {
+  $rootScope.tabIndex = 0;
+  
   $rootScope.$on('$stateChangeSuccess', function(event, toState, toParams, fromState, fromParams) {
     $rootScope.tabIndex = $stateParams.tabIndex;
+    console.log($rootScope.tabIndex);
   });
   
   $rootScope.goState = function(state) {
