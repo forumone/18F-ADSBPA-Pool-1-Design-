@@ -14,6 +14,8 @@ angular.module('gsa18f').directive('chartsBar', function() {
         left : 125
       }).yAxis.tickFormat(d3.format(',d'));
 
+      chart.noData('');
+      
       d3.select(element[0]).select("svg").remove();
       svg = d3.select(element.find("div")[0]).append("svg");
     } else {
