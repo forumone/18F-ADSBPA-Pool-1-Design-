@@ -21,7 +21,7 @@
 					<strong>{{$chip.medicinalproduct}}</strong> </md-chip-template> </md-chips>
 
 					<div ng-switch="display">
-						<md-select ng-model="$parent.newDrug" placeholder="Select a substance" ng-switch-when="substance" class="md-primary md-hue-1">
+						<md-select ng-model="$parent.newDrug" placeholder="Select a substance" ng-switch-when="substance">
 						  <md-option ng-value="substance.substance_name" ng-repeat="substance in substances">{{substance.substance_name}}</md-option> 
 						</md-select>
 
