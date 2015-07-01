@@ -18,7 +18,6 @@ angular.module('gsa18f').controller('HomeController', function($scope, $statePar
   
   // Add a new drug
   $scope.addDrug = function() {
-    console.log($scope);
     if ($scope.newDrug) {
       $scope.drugs.push({
         medicinalproduct : $scope.newDrug
