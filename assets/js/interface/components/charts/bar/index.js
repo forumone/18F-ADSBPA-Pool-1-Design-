@@ -9,7 +9,7 @@ angular.module('gsa18f').directive('chartsBar', function() {
         return d.label
       }).y(function(d) {
         return d.value
-      }).showControls(true) // don't show controls
+      }).showControls(false) // don't show controls
       .margin({
         left : 125
       });
