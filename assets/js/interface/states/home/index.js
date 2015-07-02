@@ -1,4 +1,4 @@
-angular.module('gsa18f').controller('HomeController', function($scope, $stateParams, $state, fdaLabel, substances, $q, DrugSeriousness, $mdToast) {
+angular.module('gsa18f').controller('HomeController', function($scope, $stateParams, $state, fdaLabel, substances, $q, DrugSeriousness, $mdToast, $filter) {
   $q.all({
     brands : substances.getBrands(),
     substances : substances.getSubstances()
@@ -80,29 +80,43 @@ angular.module('gsa18f').controller('HomeController', function($scope, $statePar
         fdaLabel.getEvents($scope.medicinalproducts)
         .then(function(events) {
 
-          var drugEvents = _.reduce(events, function(result, key) {
-            var output = (_.isArray(result)) ? result : [];
-
-            var drugCombo = key.drugs.join(' and ');
-
-            var drug = _.find(output, { key : drugCombo });
-
-            if (!drug) {
-              drug = {
-                key : drugCombo,
-                values : [],
-              }
-
-              output.push(drug);
-            }
-
-            drug.values.push({
-              label : _.has(DrugSeriousness, key.seriousness) ? DrugSeriousness[key.seriousness] : key.seriousness,
-              value : key.count
-            });
-
-            return output;
-          }, {});
+          var drugEvents = _.chain(events)
+            .reduce(function(result, key) {
+             var output = (_.isArray(result)) ? result : [];
+ 
+             var drugCombo = key.drugs.join(' and ');
+ 
+             var drug = _.find(output, { key : drugCombo });
+ 
+             if (!drug) {
+               drug = {
+                 key : drugCombo,
+                 values : [],
+               }
+ 
+               output.push(drug);
+             }
+ 
+             drug.values.push({
+               label : _.has(DrugSeriousness, key.seriousness) ? DrugSeriousness[key.seriousness] : key.seriousness,
+               value : key.count
+             });
+ 
+             return output;
+           }, {})
+           .map(function(drug) {
+             var sum = d3.sum(drug.values, function(v) { return v.value; });
+             
+             drug.values = _.map(drug.values, function(value) {
+               value.value = (0 != value.value) ? ((value.value / sum) * 100) : 0;
+               
+               return value;
+             });
+             
+             return drug;
+           })
+           .value();
+          
           
           $mdToast.hide();
           

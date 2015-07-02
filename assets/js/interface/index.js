@@ -51,6 +51,19 @@ gsa18f.config(function($urlRouterProvider, $locationProvider, $stateProvider, $m
         value : 1
       }
     }
+  })
+  .state('glossary', {
+    url : '/glossary',
+    templateUrl : 'states/page/index.html',
+    controller : 'PageController',
+    params : {
+      page : {
+        value : 'definitions'
+      },
+      tabIndex : {
+        value : 2
+      }
+    }
   });
 });
 
@@ -68,7 +81,6 @@ gsa18f.run(function($rootScope, $state, $stateParams) {
   
   $rootScope.$on('$stateChangeSuccess', function(event, toState, toParams, fromState, fromParams) {
     $rootScope.tabIndex = $stateParams.tabIndex;
-    console.log($rootScope.tabIndex);
   });
   
   $rootScope.goState = function(state) {

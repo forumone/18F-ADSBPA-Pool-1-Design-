@@ -357,42 +357,11 @@ sup {
   top: -0.5em;
 }
 
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-  line-height: 1.2;
-  margin: 0 0 rhythm(1);
-}
-
-tbody {}
-
-td {
-  border-bottom: 1px solid $border-color;
-  font-size: em($font-size-sm);
-  padding: 0.5em 1em;
-  text-align: center;
-  width: 15em;
-}
-
 textarea {
   overflow: auto;
 }
 
 tfoot {}
-
-th {
-  border-bottom: 1px solid $border-color;
-  font-size: em($font-size-sm);
-  padding: 0.5em 1em;
-
-  tbody & {
-    text-align: left;
-  }
-
-  tfoot & {
-    border-bottom: 0;
-  }
-}
 
 thead {}
 

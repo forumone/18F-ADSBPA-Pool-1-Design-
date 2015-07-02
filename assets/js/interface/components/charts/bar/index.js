@@ -9,10 +9,10 @@ angular.module('gsa18f').directive('chartsBar', function() {
         return d.label
       }).y(function(d) {
         return d.value
-      }).showControls(false) // don't show controls
+      }).showControls(true) // don't show controls
       .margin({
         left : 125
-      }).yAxis.tickFormat(d3.format(',d'));
+      });
 
       chart.noData('');
       
@@ -44,7 +44,7 @@ angular.module('gsa18f').directive('chartsBar', function() {
       width : '@',
       xaxisLabel : '@',
       yaxisLabel : '@',
-      title : '@',
+      title : '@'
     },
     templateUrl : 'components/charts/bar/index.html',
     link : function(scope, element, attrs) {
