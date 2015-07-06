@@ -1,14 +1,14 @@
-Sprint Planning and Review Notes
-Sprint 1 Review
-Git repo set up along with domain for public site (agileBPA.forumone.com)
-API key and routes
-Initial discovery with Product Owner during Kickoff meeting
-Set up continuous integration system
+#Sprint Planning and Review Notes
+##Sprint 1 Review
+- Git repo set up along with domain for public site (agileBPA.forumone.com)
+- API key and routes
+- Initial discovery with Product Owner during Kickoff meeting
+- Set up continuous integration system
 
-#Sprint 1 Retrospective
+##Sprint 1 Retrospective
 PO feels like we’re off to a good start, and that the UX and Dev team were both asking important questions to determine what solution the PO wants implemented for this Dataset
 
-#Sprint 2 Review
+##Sprint 2 Review
 Personas created (3)
 Sketching exercise
 More discovery with Product owner to define requirements for the solution using the adverse-effects dataset
