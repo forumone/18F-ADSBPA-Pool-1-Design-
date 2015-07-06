@@ -45,7 +45,25 @@ Pharmacist
 | Environment | He is not very comfortable using new technologies, and refers to himself as an low level Internet user. He uses email frequently, and is working on improving his tech skills due to ACA and HITECH regulations. |
 | Quote | “What can I do to help?” |
 
+#### Michael Sheaffer (M/26/MBA Student/New York, NY)
+| Persona | Patient |
+|----------|----------|
+| Fictional Name | Michael Sheaffer |
+| Job Title | Student, MBA program |
+| Demographics | 26 years old; Resides in New York, NY; Single; Studying in business school; Working nights to make ends meet |
+| Goals and Tasks | Michael is a student in NY who has been suffering from anxiety since starting his postgraduate studies. His new psychiatrist has prescribed him with two drugs to treat his anxiety and attention problems. Michael wants to learn more about the adverse effects of the drug combination he has been prescribed. Casually researches adverse affects of his prescriptions; compares adverse effects of other drug combinations prescribed to treat similar symptoms|
+| Environment | He is very comfortable using technologies. He uses his tablet, phone and notebook  frequently at school, work and home. |
+| Quote | “I’m super stressed out” |
 
+#### Sue Grant (F/40/Pharmacist/Seattle, WA)
+| Persona | Pharmacist |
+|----------|----------|
+| Fictional Name | Sue Grant|
+| Job Title | Pharmacist, Chain Pharmacy Story |
+| Demographics | 40 years old; Resides in Seattle, WA; Married; Works over 40 hours per week |
+| Goals and Tasks | Sue is a pharmacist who has noticed that many of the drugs picked up at her pharmacy are SSRIs, NRIs and MAOIs. She wants to make sure that her customers are safe, and is concerned about the many varying dosages that can be prescribed. As some customers often change their dosages (either increasing or decreasing based on doctor's orders), she wants to see which individual drugs have the most adverse effects in the last 5 years. See which drugs have the highest reported adverse effects, and see which have thw worst effects. Look at data over the last 5 years for SNRIs, SSRIs, MAOIs|
+| Environment | She is moderately comfortable using technology. She uses her smartphone and computer  frequently at work, about 1.5 hours a day. She uses her tablet at home for about 1-2 hours a day |
+| Quote | “I’m detail-oriented” |
 
 
 #### Comparators
