@@ -34,7 +34,8 @@ Pharmacist
 
 
 #Personas
-
+### Jim Tashel (M/55/Mental Health Physician/San Francisco, CA)
+|xxx|xxxx|
 Comparators
 http://www.visualizefda.com/fda/Drugs/Adverse-Events 
 
