@@ -65,6 +65,14 @@ Pharmacist
 | Environment | She is moderately comfortable using technology. She uses her smartphone and computer  frequently at work, about 1.5 hours a day. She uses her tablet at home for about 1-2 hours a day |
 | Quote | “I’m detail-oriented” |
 
+## Use Cases
+|  | Brand Name Search Use Case |
+|----------|----------|
+| Use Case 1| See adverse effects of a brand-name antidepressant |
+| Actor | Patient/Consumer |
+| Basic Flow| The user visits the site on a desktop, and is met with the data viewer tool and instructions for its use. The user selects the criteria for search: Brand Name. He clicks on the dropdown list and scrolls to the brand he is interested in. He clicks ‘OK’. Then, a chart populates to the right of the menu he was using. He views the chart, and then hovers over the data for each effect. The data then displays a tooltip showing specific numbers of reported adverse effects.|
+
+
 
 #### Comparators
 http://www.visualizefda.com/fda/Drugs/Adverse-Events 
