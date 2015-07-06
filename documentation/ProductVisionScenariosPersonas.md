@@ -40,11 +40,8 @@ Pharmacist
 |----------|----------|
 | Fictional Name | Jim Tashel |
 | Job Title | Principal, Private Practice |
-| Demographics | -55 years old - Resides in San Francisco, CA - Married - Father of two children - Has an MD from Harvard Medical School |
-| Goals and Tasks | Jim is a physician who has been practicing for 20+ years. He is compassionate, attentive and diligent. One of his concerns is helping his patients cope with difficult mental health issues in a way that won’t be detrimental to them later. As new drugs are introduced and pharma reps court Jim, he wants to make sure that he will not be prescribing drug combinations that could be potentially dangerous to his patients. He wants to check quickly and easily into possible adverse effects of specific drug combinations before writing a script.
-- Treating patients
-- Prescribing the right combination of antidepressants and/or psychostimulants
-- Meeting pharma reps|
+| Demographics | 55 years old; Resides in San Francisco, CA; Married; Father of two children; Has an MD from Harvard Medical School |
+| Goals and Tasks | Jim is a physician who has been practicing for 20+ years. He is compassionate, attentive and diligent. One of his concerns is helping his patients cope with difficult mental health issues in a way that won’t be detrimental to them later. As new drugs are introduced and pharma reps court Jim, he wants to make sure that he will not be prescribing drug combinations that could be potentially dangerous to his patients. He wants to check quickly and easily into possible adverse effects of specific drug combinations before writing a script. Treating patients; Prescribing the right combination of; antidepressants and/or psychostimulants; Meeting pharma reps|
 | Environment | He is not very comfortable using new technologies, and refers to himself as an low level Internet user. He uses email frequently, and is working on improving his tech skills due to ACA and HITECH regulations. |
 | Quote | “What can I do to help?” |
 
