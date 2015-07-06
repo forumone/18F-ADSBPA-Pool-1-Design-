@@ -1,4 +1,5 @@
 # dCARE: drug Contraindications Adverse Reactions Evaluations
+[Original Version of this document](https://docs.google.com/document/d/11pnSJxqw-JNx2jYmWZJdVtUb0cXUE3tsB6qXkKOH60k/edit?usp=sharing) 
 
 ### Background and Problem Statement
 A number of drugs are associated with adverse events. These adverse events range from product quality issues to death.
@@ -35,9 +36,10 @@ Pharmacist
 
 ##Personas
 #### Jim Tashel (M/55/Mental Health Physician/San Francisco, CA)
-| x | x |
+| Persona | Mental Health Physician |
 |----------|----------|
-| x | x |
+| Fictional Name | Jim Tashel |
+| Job Title | Principal, Private Practice |
 
 
 #### Comparators
