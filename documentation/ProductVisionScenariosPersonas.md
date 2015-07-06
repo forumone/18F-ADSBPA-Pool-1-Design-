@@ -17,18 +17,18 @@ Launch a minimally viable product that can later enhanced to include new feature
 
 ## Audiences Scenarios
 General Consumer
-wants to see if drug is associated with adverse events. If so, what adverse events and how serious
-wants to be informed of latest/highest highest drugs by adverse events
-wants to see if there are prevalent adverse events reported in the area I live (state/county) 
+- wants to see if drug is associated with adverse events. If so, what adverse events and how serious
+- wants to be informed of latest/highest highest drugs by adverse events
+- wants to see if there are prevalent adverse events reported in the area I live (state/county) 
 Physician / Health Professional
-wants tool to quickly see if prescribed or OTC med has any adverse events related to it. If so, which events and how serious so that I can make better decisions as well as better educate their patients and caregivers
-wants tool to quickly see if certain ingredients/substances are related to adverse events
-wants to be able to compare adverse events of a combination of drugs so that a consumer can reduce the risk of adverse events if taking multiple medications
-for a particular drug, wants to see a list (top ten?) of drugs that are most commonly seen together with it in adverse events
+- wants tool to quickly see if prescribed or OTC med has any adverse events related to it. If so, which events and how serious - so that I can make better decisions as well as better educate their patients and caregivers
+- wants tool to quickly see if certain ingredients/substances are related to adverse events
+- wants to be able to compare adverse events of a combination of drugs so that a consumer can reduce the risk of adverse events if taking multiple medications
+- for a particular drug, wants to see a list (top ten?) of drugs that are most commonly seen together with it in adverse events
 Pharmacist
-wants tool to quickly see if prescribed or OTC med has any adverse events related to it. If so, which events and how serious to that they can make better decisions as well as better educate their patients and caregivers
-wants tool to quickly see if certain ingredients/substances are related adverse events
-wants to see top manufacturers related to producing drugs with most adverse events (top 10 list)
+- wants tool to quickly see if prescribed or OTC med has any adverse events related to it. If so, which events and how serious - to that they can make better decisions as well as better educate their patients and caregivers
+- wants tool to quickly see if certain ingredients/substances are related adverse events
+- wants to see top manufacturers related to producing drugs with most adverse events (top 10 list)
 
 
 #Personas
