@@ -35,7 +35,11 @@ Pharmacist
 
 #Personas
 ### Jim Tashel (M/55/Mental Health Physician/San Francisco, CA)
-|xxx|xxxx|
-Comparators
+| #  | Criteria | Evidence |
+|----|----------|----------|
+| 1  | Assigned one leader, gave that person authority and responsibility, and held that person accountable for the quality of the prototype submitted | [link](https://github.com/forumone/18F#team-and-labor-categories---design-pool) |
+
+
+#### Comparators
 http://www.visualizefda.com/fda/Drugs/Adverse-Events 
 
