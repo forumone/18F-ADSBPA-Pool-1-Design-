@@ -37,10 +37,7 @@ A few comments:
 
 #### Jim Cashel (June 20):
 
-Cool. Thanks for the note. Looks interesting.
-
-Are the terms you use ("serious death", "serious disabling") those found in the FDA database? It would be good to align these as closely as possible with the terms physicians would use (for example "serious death" probably isn't one :)    ).
-
-You also might order the severity of adverse effects: hospitalization, congenital, disabling, life-threatening, death, other.
-
-I'm also a little clear on first pass -- does the chart reflect predicted adverse effects *if* all four drugs are used simultaneously?
+- Cool. Thanks for the note. Looks interesting.
+- Are the terms you use ("serious death", "serious disabling") those found in the FDA database? It would be good to align these as closely as possible with the terms physicians would use (for example "serious death" probably isn't one :)    ).
+- You also might order the severity of adverse effects: hospitalization, congenital, disabling, life-threatening, death, other.
+- I'm also a little clear on first pass -- does the chart reflect predicted adverse effects *if* all four drugs are used simultaneously?
