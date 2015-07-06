@@ -17,6 +17,8 @@ I recommend following the general layout in my designs
 - Color contrast makes it hard to read
 - Dropdowns could be taller to be more finger-friendly and look more modern
 
+Daniel worked with Lisa, Visual Designer,  to further refine the design and layout of the prototype and provided constructive feedback on a seconds, third and fourth iteration. Many of the comments above were incorporated into the prototype. 
+
 #### Jim Cashel (June 23):
 
 A few comments:
