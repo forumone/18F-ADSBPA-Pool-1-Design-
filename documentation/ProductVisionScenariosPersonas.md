@@ -35,9 +35,9 @@ Pharmacist
 
 ##Personas
 #### Jim Tashel (M/55/Mental Health Physician/San Francisco, CA)
-| x  | xx | x |
-|----|----------|----------|
-| x  | x | x |
+| x | x |
+|----------|----------|
+| x | x |
 
 
 #### Comparators
