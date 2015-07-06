@@ -33,7 +33,7 @@ A large component of our ability to stay lean and develop fast came from the use
 | 3  | Understand what people need, by including people in the prototype design process | [link](https://docs.google.com/document/d/11pnSJxqw-JNx2jYmWZJdVtUb0cXUE3tsB6qXkKOH60k/edit#) |
 | 4  | Used at least three “human-centered design” techniques or tools | [link](https://docs.google.com/document/d/11pnSJxqw-JNx2jYmWZJdVtUb0cXUE3tsB6qXkKOH60k/edit#) |
 | 5  | Created or used a design style guide and/or a pattern library |          |
-| 6  | Wsed at least three modern and open source frontend or client side web technologies | [link](http://agilebpa.forumone.com/about/#/) Among others, client side technologies include: D3, Angular, SASS, jQuerey |
+| 6  | Used at least three modern and open source frontend or client side web technologies | [link](http://agilebpa.forumone.com/about/#/) Among others, client side technologies include: D3, Angular, SASS, jQuerey |
 | 7  | Performed usability tests with people | [trello link](https://trello.com/c/P3M8k6Ag/29-user-research-usability-testing-wireframes), [survey link](https://www.surveymonkey.com/r/3MTG8JK)         |
 | 8  | Used an interactive approach, where feedback informed subsequent work or versions of the prototype | [Trello Board](https://trello.com/b/nCt1b9Fg/18f-agile-bpa), [Sprint Reviews/Retrospectives] (https://docs.google.com/document/d/160VHp6qdKdgGAMgxQbAn5HhGSLXCIvcWZYdnE2SK8mM/edit?usp=sharing) |
 | 9  | Created a prototype that works on multiple devices and presents a responsive design |         |
