@@ -1,12 +1,12 @@
 # dCARE: drug Contraindications Adverse Reactions Evaluations
 
-## Background and Problem Statement
+### Background and Problem Statement
 A number of drugs are associated with adverse events. These adverse events range from product quality issues to death.
 FDA is collecting data from a number of sources including consumers, physicians, other health professionals, pharmacists, and lawyers. 
 However, there is not an easy way to distill this information to the general consumer who can research the adverse events related to a particular drug, drill down into each drug to learn more about related adverse events, and make informed decisions related to his/her health outcomes.
 Clinicians may forgo searches that are expected to require more than two minutes to complete. Some have even suggested that in the busy hospital setting this time is closer to 30 seconds. Thus, patients on complex drug regimens are doubly disadvantaged. They are at increased risk for an adverse event, yet their physicians may be less likely to perform a thorough review of their medications due to the lengthy time required: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2838979/ 
 
-## Vision
+### Vision
 We envision our product to:
 allow users to search for drugs by name (brand or generic), manufacturer, substances (ingredients)
 allow users to access general information about a particular drug by a variety of variables (e.g., dosage)
@@ -15,7 +15,7 @@ allow users to see who are the top manufacturers producing drugs with the most a
 Allow users to see adverse events reported at state/county level (if time warrants)
 Launch a minimally viable product that can later enhanced to include new features
 
-## Audiences Scenarios
+### Audiences Scenarios
 General Consumer
 - wants to see if drug is associated with adverse events. If so, what adverse events and how serious
 - wants to be informed of latest/highest highest drugs by adverse events
@@ -33,11 +33,10 @@ Pharmacist
 - wants to see top manufacturers related to producing drugs with most adverse events (top 10 list)
 
 
-#Personas
-### Jim Tashel (M/55/Mental Health Physician/San Francisco, CA)
-| #  | Criteria | Evidence |
-|----|----------|----------|
-| 1  | Assigned one leader, gave that person authority and responsibility, and held that person accountable for the quality of the prototype submitted | [link](https://github.com/forumone/18F#team-and-labor-categories---design-pool) |
+##Personas
+#### Jim Tashel (M/55/Mental Health Physician/San Francisco, CA)
+|Persona | Mental Health Physician|
+|Assigned one leader, gave that person authority and responsibility, and held that person accountable for the quality of the prototype submitted | [link](https://github.com/forumone/18F#team-and-labor-categories---design-pool) |
 
 
 #### Comparators
