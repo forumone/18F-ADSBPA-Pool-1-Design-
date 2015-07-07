@@ -84,9 +84,22 @@ PM: Would still like to see options removed from the dropdown list if they have 
 Designer: Would like to see some of the changes implemented from the mockups provided
 
 ##Sprint 8 Planning
+PO: Still conducting additional usability testing and need to write stories to incorporate feedback.
+PO: Received feedback on the design and Lisa working to produce additional design comp based on feedback. 
+FED: Can implement design feedback in Sprint 8. 
+PO: Ordered the stories based on important for the Sprint. 
+PO: We need to create a workflow document which illustrates the workflow of the tool.
 
 ##Sprint 8 Review
+FED: Made additional changes to the prototype based on feedback from the usability testing.
+PO: All changes look good, going to review additional stories and accept them as needed.
+ID: Created workflow document based upon story and PO accepted for approval. 
 
 ##Sprint 9 Planning
+PO: Unit tests need to be created to test the website. 
+FED: Working to create unit tests and need to define story in Trello. 
+PO: Need to run final exploratory bug testing and browser acceptance testing, adding stories or bugs to Trello.
 
 ##Sprint 9 Review
+FED: Fixed any outstanding bugs or issues and completed documentation to fulfil requirements in the RFP. 
+PO: All items look good and we can freeze the code.
