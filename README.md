@@ -3,7 +3,7 @@ Prototype URL: [http://agilebpa.forumone.com](http://agilebpa.forumone.com).
 
 Agile Management Tool: [Trello](https://trello.com/b/nCt1b9Fg/18f-agile-bpa)
 
-This tool tracked progress on the prototype and includes a timestamped chronological listing of how the prototypes was designed and developed by out team. All documentation within Trello is also in the Documentation section in Github.
+This tool tracked progress on the prototype and includes a timestamped chronological listing of how the prototypes was designed and developed by out team. All documentation within Trello is also in the Documentation section in GitHub.
 
 ## Description
 
