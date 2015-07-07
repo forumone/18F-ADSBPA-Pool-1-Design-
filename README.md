@@ -40,7 +40,7 @@ A large component of our ability to stay lean and develop fast came from the use
 | 6  | Used at least three modern and open source frontend or client side web technologies | [link](http://agilebpa.forumone.com/about/#/) Among others, client side technologies include: D3, Angular, SASS, jQuerey |
 | 7  | Performed usability tests with people | [trello link](https://trello.com/c/P3M8k6Ag/29-user-research-usability-testing-wireframes), [survey link](https://www.surveymonkey.com/r/3MTG8JK)         |
 | 8  | Used an interactive approach, where feedback informed subsequent work or versions of the prototype | [Trello Board](https://trello.com/b/nCt1b9Fg/18f-agile-bpa), [Sprint Reviews/Retrospectives] (https://github.com/forumone/18F-ADSBPA-Pool-1-Design-/blob/master/documentation/SprintPlanningandReviewNotes.md) |
-| 9  | Created a prototype that works on multiple devices and presents a responsive design |         |
+| 9  | Created a prototype that works on multiple devices and presents a responsive design | [link](https://github.com/forumone/18F-ADSBPA-Pool-1-Design-/tree/master/documentation/Prototype%20Screenshots%20%28responsive%29) |
 | 10 | Provided sufficient documentation to install and run their prototype on another machine | [link](https://github.com/forumone/18F#web-starter-kit) |
 | 11 | Prototype and underlying platforms used to create and run the prototype are openly licensed and free of charge | [link](https://github.com/forumone/18F/blob/master/LICENSE.md) |
 
