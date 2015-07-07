@@ -1,3 +1,6 @@
+## Design Style Guide or Pattern Library
+Forum One used [Google's Material Design](http://www.google.com/design/spec/material-design/introduction.html) components as the base pattern library for the dCare tool. This provided our team with a visual language and direction early in the process and allowed us to iterate on the design quicker, rather than going through a color and design direction process.
+
 ##  Open Source Tools
 - Jenkins
 - Capistrano
