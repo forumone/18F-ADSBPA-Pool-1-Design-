@@ -9,7 +9,7 @@ This tool tracked progress on the prototype and includes a timestamped chronolog
 
 dCARE is a tool that enables physicians, pharmacists, nurses, patients and care providers to understand the types of contraindications from taking two or more mental health drugs at the same time. The dCARE tool is specifically designed to help those who are taking or prescribing pharmaceuticals for mental health issues (antidepressants and psychostimulants/nootropics) to understand if there are potentially adverse side effects from specific combinations of medicines.
 
-dCARE includes the ability to show contradictors for several medications at the same time. It is based on official FDA data, and reduces the research time substantially. You can track our progress on our [Trello board.](https://trello.com/b/nCt1b9Fg/18f-agile-bpa)
+dCARE includes the ability to show contradictors for several medications at the same time. It is based on official FDA data, and reduces the research time substantially. You can track our progress on the development of the dCare tool on our [Trello board.](https://trello.com/b/nCt1b9Fg/18f-agile-bpa)
 
 ## Approach - Design Pool 
 
